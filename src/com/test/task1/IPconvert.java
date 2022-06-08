@@ -1,14 +1,20 @@
 package com.test.task1;
 
-public class IPConvert
-{
+import java.util.Scanner;
 
+public class IPconvert
+{
     public static void main(String[] args)
     {
-        IPConvert cl = new IPConvert();
+        IPconvert cl = new IPconvert();
 
-        String ip_str = "192.168.2.99";
+        //String ip_str = "192.168.2.99";
 
+        Scanner in = new Scanner(System.in);
+        System.out.print("Input IP address: ");
+        String ip_str = in.next();
+        in.close();
+/*
         for (String str : args)
         {
             System.out.println("arg = " + str);
@@ -23,7 +29,7 @@ public class IPConvert
             }
 
         }
-
+*/
         long longip = cl.ipToLong(ip_str);
 
         System.out.println("ip address : " + ip_str + "\nlongip : " + longip);
