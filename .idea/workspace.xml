@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ipconvert:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e38c70-4d3f-4a3e-8959-52086801280c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ipconvert_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ipconvert_jar/ipconvert.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/task1/IPConvert.java" beforeDir="false" />
+    <list default="true" id="35e38c70-4d3f-4a3e-8959-52086801280c" name="Changes" comment="rebuild project">
+      <change beforePath="$PROJECT_DIR$/src/com/test/task1/IPconvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/task1/IPconvert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +66,16 @@
       <updated>1654720670708</updated>
       <workItem from="1654720672937" duration="315000" />
       <workItem from="1654721392592" duration="93000" />
-      <workItem from="1654721585974" duration="77000" />
+      <workItem from="1654721585974" duration="296000" />
     </task>
+    <task id="LOCAL-00001" summary="rebuild project">
+      <created>1654721797672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654721797672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rebuild project" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebuild project" />
   </component>
 </project>
