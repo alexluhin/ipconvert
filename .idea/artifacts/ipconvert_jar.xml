@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ipconvert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ipconvert_jar</output-path>
+    <root id="archive" name="ipconvert.jar">
+      <element id="module-output" name="ipconvert" />
+    </root>
+  </artifact>
+</component>
